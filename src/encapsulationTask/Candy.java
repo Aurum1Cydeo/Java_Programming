@@ -1,4 +1,4 @@
-package practiceConstructors;
+package encapsulationTask;
 
 public class Candy{
 

@@ -1,7 +1,6 @@
-package practiceConstructors;
+package encapsulationTask;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 
 public class CandyTest {
 
