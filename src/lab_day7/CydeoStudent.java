@@ -2,7 +2,8 @@ package lab_day7;
 
 public class CydeoStudent {
 
-   public String name;
+    public static boolean schoolName;
+    public String name;
    public int age;
    public char gender;
    public boolean isEmployed,isMarried;

@@ -37,7 +37,7 @@ public class StringMethods1 {
 
        str4 = str4.trim();//"Cydeo School"
 
-        System.out.println(str4);
+        System.out.println("str4"+str4);
 
 //--------------------------------------------------------------------------------------------------------------
         String sentence1 = "Today is Sunday, and we have Java Class";
@@ -50,25 +50,25 @@ public class StringMethods1 {
 
         int firstA = s1.indexOf('a');
 
-        System.out.println(firstA);
+        System.out.println("first A is : "+firstA);
 
         int secondA=s1.indexOf("a ");
 
-        System.out.println(secondA);
+        System.out.println("secondA: "+secondA);
 
         String s2 = "Java Python JavaScript Cydeo Python";
 
          int a1 = s2.indexOf('a');
 
-        System.out.println(a1);
+        System.out.println("a1 : "+a1);
 
         int a2= s2.indexOf("a Python");
 
-        System.out.println(a2);
+        System.out.println("a2: "+a2);
 
         int a3 = s2.indexOf("avaS");
 
-        System.out.println(a3);
+        System.out.println("a3: "+a3);
 
         int a4 = s2.indexOf("aS");
 

@@ -1,5 +1,7 @@
 package mentorTasks;
 
+import utilities.StringUtility;
+
 import java.util.Scanner;
 
 public class FirstNonRepeatingVowel {
@@ -10,7 +12,13 @@ public class FirstNonRepeatingVowel {
         String str = input.nextLine();
 
         System.out.println(findUniqueVowel(str));
+
+        System.out.println(StringUtility.reverse("diaper"));
+
+
     }
+
+
 
     public static int findUniqueVowel(String str) {
         for (int i = 0; i < str.length(); i++) {

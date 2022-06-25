@@ -18,8 +18,8 @@ public class StringReverse {
 
 
             System.out.println(reverse);
-            System.out.println("-------------------------------------");
-            String name = "Ermek Keneshbekovich Apazov";
+
+
         }
     }
 }

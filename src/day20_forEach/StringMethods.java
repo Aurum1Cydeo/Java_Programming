@@ -35,7 +35,7 @@ public class StringMethods {
         for (int i = 0; i < arr.length; i++) {
             reversedSentence+=arr[i]+" ";
         }
-        System.out.println(Arrays.toString(arr));
+
 
     }
 }
