@@ -12,7 +12,6 @@ public class Pizza2 {
        setNumberOfPepperoniTopping(numberOfPepperoniTopping);
     }
 
-
     public String getSize() {
         return size;
     }
@@ -87,7 +86,6 @@ public class Pizza2 {
                     flag =false;
                     break;
                 }
-
         }
         if(flag!=true){
             System.err.println("Number of pepperoni is out of limit");
@@ -95,9 +93,6 @@ public class Pizza2 {
         }
         this.numberOfPepperoniTopping = numberOfPepperoniTopping;
     }
-
-
-
     public String toString() {
         return "Pizza{" +
                 "size='" + size + '\'' +

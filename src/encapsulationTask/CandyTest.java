@@ -3,12 +3,11 @@ package encapsulationTask;
 import java.util.ArrayList;
 
 public class CandyTest {
-
     public static void main(String[] args) {
 
         ArrayList<Candy> candies=new ArrayList<>();
 
-        candies.add(new Candy("Rosh",0,00,true));
+        candies.add(new Candy("Rosh",20,00,true));
         candies.add(new Candy("Airb",13,2.45,false));
         candies.add(new Candy ("Snickers",16,2.54,true));
         candies.add(new Candy ("Mix",20,4.25,true));
