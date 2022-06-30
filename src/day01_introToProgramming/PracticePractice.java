@@ -14,6 +14,15 @@ public class PracticePractice {
                 System.out.print("" + word.charAt(i));
             }
         }
-        System.out.println();
+        System.out.println("----------------------");
+              int[] nums={1,3,5,7,9};
+        int countEven=0;
+        for(int i =0; i<nums.length; i++){
+            if(i%2==0){
+                countEven++;
+            }
+        }
+        System.out.println(countEven);
     }
 }
+
