@@ -58,7 +58,7 @@ Warmup tasks:
 
 
 
-IF the instance variable is final, we can only getter, we can not generate setter for it
+IF the instance variable is final, we can have only getter, we can not generate setter for it
 
 
 
