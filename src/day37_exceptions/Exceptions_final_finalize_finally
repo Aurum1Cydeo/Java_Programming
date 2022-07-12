@@ -1,0 +1,25 @@
+Exceptions Topics:
+	1. Exceptions Intro
+	2. Checkd & unchecked
+	3. Try & Cacth
+
+	4. Throws Keyword
+			try&catch vs throw
+	5. Throw keyword
+			throws vs throw
+	6. Custom Exception
+
+
+
+
+
+final vs finalize vs finally:
+
+	final: keyword ==> unchangable
+
+	finalize: method ===> GC use it to collect the objects that are eligible for garbage collection
+
+	finally: block ===> can only used with try&catch
+
+
+
