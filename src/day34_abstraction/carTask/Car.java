@@ -1,4 +1,4 @@
-package day34_abstractcion.car;
+package day34_abstraction.carTask;
 
 public abstract class Car {// meant to be inheritant, can not be
     private final String make,model;

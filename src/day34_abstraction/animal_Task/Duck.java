@@ -1,4 +1,4 @@
-package day34_abstractcion.animal_Task;
+package day34_abstraction.animal_Task;
 
 public class Duck extends Animal implements Flyable, SwimAble{
     public Duck(String name, String breed, char gender, int age, String size, String color) {

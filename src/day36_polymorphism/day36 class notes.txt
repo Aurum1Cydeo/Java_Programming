@@ -47,7 +47,7 @@ castings: converting one type to another
 				1. implicit primitive type casting: casting smaller primitive type to larger primitive type  (done implicitly)
 
 								int a = 100;
-								double b = a; // implcitly casted to double
+								double b = a; // implicitly casted to double
 
 				2. explicit primitive type casting: casting larger primitive type to smaller primitive type
 
@@ -62,7 +62,7 @@ castings: converting one type to another
 
 			  			Car car	= new BMW();
 
-			  2. Downcasting: casting the super type to subtype (done explicitly)
+			  2. Down casting: casting the super type to subtype (done explicitly)
 
 
 
@@ -87,7 +87,7 @@ Runtime polymorphism (dynamic polymorphism): method overriding
 
 compile time polymorphism (static polymorphism) : method overloading
 						   multiple methods with the same name
-						   each method has one implementation ONLY ( revealed during to compile time)
+						   each method has one implementation ONLY ( revealed during compile time)
 
 
 						   add(num1, num2)

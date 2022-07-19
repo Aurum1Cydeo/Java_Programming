@@ -1,4 +1,4 @@
-package day34_abstractcion.animal_Task;
+package day34_abstraction.animal_Task;
 
 public class Tiger extends Animal implements WildAnimal {
     public Tiger(String name, String breed, char gender, int age, String size, String color) {

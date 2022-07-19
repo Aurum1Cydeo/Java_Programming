@@ -32,12 +32,5 @@ public class RectangularHouse extends House {
         return side*width;
     }
 
-    @Override
-    public String toString() {
-       return getClass().getSimpleName() + "{" +
-                "area='" + area() + '\'' +
-                ",side='" + getSide() + '\'' +
 
-                '}';
-    }
 }

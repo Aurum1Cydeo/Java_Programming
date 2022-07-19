@@ -1,7 +1,7 @@
 package day35_polymorphism.transportationTask;
 
-import day34_abstractcion.animal_Task.Flyable;
-import day34_abstractcion.animal_Task.SwimAble;
+import day34_abstraction.animal_Task.Flyable;
+import day34_abstraction.animal_Task.SwimAble;
 
 public class CydeoCar extends Car implements Flyable,Electric,AutoPilot, SwimAble {
 

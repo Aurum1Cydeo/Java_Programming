@@ -22,14 +22,7 @@ public class SquareHouse extends House {
         return side*side;
     }
 
-    @Override
-    public String toString() {
-        return getClass().getSimpleName() + "{" +
-                "area='" + area() + '\'' +
-                ",side='" + getSide() + '\'' +
 
-                '}';
-    }
 }
 
 

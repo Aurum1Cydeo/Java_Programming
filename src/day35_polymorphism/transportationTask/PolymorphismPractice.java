@@ -1,7 +1,6 @@
 package day35_polymorphism.transportationTask;
 
-import day34_abstractcion.animal_Task.Animal;
-import day34_abstractcion.animal_Task.Tiger;
+import day34_abstraction.animal_Task.Tiger;
 
 public class PolymorphismPractice {
     public static void main(String[] args) {

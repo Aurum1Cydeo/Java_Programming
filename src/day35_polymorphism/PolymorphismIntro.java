@@ -1,6 +1,6 @@
 package day35_polymorphism;
 
-import day34_abstractcion.animal_Task.*;
+import day34_abstraction.animal_Task.*;
 
 
 public class PolymorphismIntro {
